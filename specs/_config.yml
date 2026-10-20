@@ -1,0 +1,3 @@
+schema: mergegate/config@1
+# shadow: report drift on pull requests without blocking. Switch to block when the specs are yours.
+mode: shadow
